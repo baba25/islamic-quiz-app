@@ -1,0 +1,35 @@
+.form-cont{
+    background-color: rgb(26, 29, 70);
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin: 5rem 2rem;
+    border-radius: 20px;
+}
+h3{
+    font-size: 15px;
+    width: 320px;
+    text-align: center;
+}
+.form-cont > p {
+    font-size: 11px;
+    width: 200px;
+    text-align: center;
+    margin: 3rem 0 1rem 0;
+}
+input {
+    width: 250px;
+    margin: 0 0 1rem 0;
+    background-color: rgb(12, 4, 48);
+    border-style: none;
+    padding: 7px 5px;
+}
+.form-btn{
+    padding: 8px 16px;
+    color: white;
+    background-color: rgb(12, 4, 48);
+    border: 1px solid rgb(90, 84, 84);
+    border-radius: 8px;
+}

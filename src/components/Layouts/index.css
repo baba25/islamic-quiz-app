@@ -1,0 +1,23 @@
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 1rem;
+}
+.lay-btn {
+    padding: 10px 20px;
+    color: white;
+    background-color: rgb(12, 4, 48);
+    border: 1px solid rgb(90, 84, 84);
+    border-radius: 8px;
+}
+.lay-footer{
+    font-size: 14px;
+    text-align: center;
+}
+.footer{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
