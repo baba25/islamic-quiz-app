@@ -3,7 +3,7 @@ import { Link, Outlet } from 'react-router-dom'
 import './index.css'
 
 
-function Layout() {
+function layout() {
   return (
     <div>
         <div className='nav'>
@@ -22,4 +22,4 @@ function Layout() {
   )
 }
 
-export default Layout
+export default layout
