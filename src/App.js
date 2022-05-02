@@ -8,7 +8,7 @@ import Quiz from './components/Quiz';
 function App() {
   return (
     <div>
-<Layout />
+      <Layout />
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Form />} />
