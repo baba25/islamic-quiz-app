@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/islamic-quiz-app/static/css/main.230b0865.css",
-    "main.js": "/islamic-quiz-app/static/js/main.9972cef8.js",
+    "main.css": "/islamic-quiz-app/static/css/main.79951479.css",
+    "main.js": "/islamic-quiz-app/static/js/main.b2260ed3.js",
     "index.html": "/islamic-quiz-app/index.html",
-    "main.230b0865.css.map": "/islamic-quiz-app/static/css/main.230b0865.css.map",
-    "main.9972cef8.js.map": "/islamic-quiz-app/static/js/main.9972cef8.js.map"
+    "main.79951479.css.map": "/islamic-quiz-app/static/css/main.79951479.css.map",
+    "main.b2260ed3.js.map": "/islamic-quiz-app/static/js/main.b2260ed3.js.map"
   },
   "entrypoints": [
-    "static/css/main.230b0865.css",
-    "static/js/main.9972cef8.js"
+    "static/css/main.79951479.css",
+    "static/js/main.b2260ed3.js"
   ]
 }
