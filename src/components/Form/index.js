@@ -11,7 +11,7 @@ function Form() {
             <p>Kindly input your Name to continue with this quick quiz. It's optional so you can skip</p>
 
             <input type="text" placeholder="Enter your name" required/>
-            <NavLink exact="true" activeclassname="active" to="/quiz">
+            <NavLink exact="true" to="/quiz">
             <button className='form-btn'>Start Quiz</button>
             </NavLink>
         </div>

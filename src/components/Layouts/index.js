@@ -1,5 +1,6 @@
 import React from 'react'
-import { Link, Outlet } from 'react-router-dom'
+import { NavLink, Link, Outlet } from 'react-router-dom'
+import Form from '../Form'
 import './index.css'
 
 
@@ -7,12 +8,12 @@ function layout() {
   return (
     <div>
         <div className='nav'>
-          <Link to="/">
+          <Link exact="true" to="/">
           <h1 className='lay-logo'>QQ</h1>
           </Link>
-          <Link to="/">
+          <NavLink exact="true" to="/">
           <button className='lay-btn'>Restart</button>
-          </Link>
+          </NavLink>
         </div>
         <Outlet />
         <div className='footer'>
